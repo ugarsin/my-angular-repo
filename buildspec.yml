@@ -14,5 +14,5 @@ phases:
 artifacts:
   files:
     - 'dist/my-angular-project/**/*'
-    - 'appspec.yml'
+    - appspec.yml
     - 'deploy-scripts/**/*'
